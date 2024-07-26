@@ -30,4 +30,4 @@ Run command below in contracts/{contract} directory (i.e. code/contracts/counter
 aztec-nargo compile
 ```
 
-[#code1]:../code/contracts/counter/src/main.nr
+[#code1]:../noir-contracts/contracts/counter_contract/src/main.nr
